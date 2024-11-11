@@ -1,0 +1,8 @@
+Luken Eguiluz del Ángel
+Estudiante de Ingeniería Biomédica en la Universidad Iberoamericana CDMX
+
+Versión del proyecto: 0
+Título del proyecto: Adquisición de Electrocardiografía Fetal en Mujeres Embarazadas de 32 Semanas o Más de Gestación Utilizando Electrodos Tripolares de Anillos Concéntricos
+
+Resumen: El sufrimiento fetal es un diagnóstico médico que depende de la experiencia del médico en la utilización del cardiotocógrafo y su habilidad para relacionar las aceleraciones y desaceleraciones de la frecuencia cardiaca fetal en función de las contracciones uterinas. Se ha observado un aumento en la realización de cesáreas a nivel mundial, procedimiento que conlleva adversidades. Uno de los motivos por los cuales se opta por realizar más partos mediante cirugía es la suposición de diagnóstico de sufrimiento fetal. A fecha de la realización de este documento, no existe un sistema no invasivo para mostrar la morfología eléctrica cardiaca del feto in-útero utilizado en el ámbito clínico.
+Con este proyecto de internado se pretende desarrollar un sistema de adquisición de electrocardiografía fetal mediante la utilización de electrodos tripolares de anillos concéntricos super- ficiales. Estos electrodos han demostrado reducir interferencias en las señales adquiridas. Se sugiere que al ser colocados en el vientre de la madre podría tener efectos similares. Esto permitiría la diferenciación precisa de los segmentos ST para la detección de hipoxia y proporcionar un diagnóstico más confiable.
